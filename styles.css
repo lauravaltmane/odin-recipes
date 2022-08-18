@@ -43,8 +43,7 @@ h2 {
     right: 300px;
 }
 
-.recipe-links {
-    position: absolute;
+.recipe-links ul {
     color: #42424e;
     margin-left: 200px;
     font-size: 24px;
