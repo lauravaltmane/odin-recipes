@@ -17,7 +17,7 @@
     text-align: center;
 }
 
-p {
+p, ul, ol {
     color: #21205e;
 }
 
